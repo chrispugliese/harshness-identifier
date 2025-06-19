@@ -98,3 +98,6 @@ saved_models/
 
 > **📌 Tip:** If you're reproducing this notebook, mount your Google Drive and verify the dataset path before training begins.
 
+> ⚠️ Considering how much data we extracted, we unfortunately cannot upload created spectrograms.
+
+
