@@ -5,6 +5,10 @@
 
 > ⚠️ Be sure to run each cell individually in Colab.
 
+> Note: The original notebook includes a hardcoded local path (`/Users/chris/...`).  
+If you're cloning this project, update the `base_path` variable in the notebook to match your environment.
+
+
 ## 💡 Project Overview
 
 This project explores the classification of spectrogram images generated from music clips into two categories: `clean` and `harsh`. The primary objective was to build a convolutional neural network (CNN) capable of identifying harshness in audio signals. Given CNNs' strength in image recognition, we transformed audio into spectrograms — visual representations of audio frequency over time — to apply image-based machine learning techniques to the audio domain.
